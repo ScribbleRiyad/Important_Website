@@ -5,4 +5,4 @@ Hello 🖐️ friends, Welcome to My GitHub. 💕
 🔰  AI Based Resume Make    :- https://flowcv.com/ <br>
 🔰 Text To Signature Auto   :- https://www.fontspace.com/category/signature <br>
 🔰 Convert JSON any language:- https://app.quicktype.io/ <br>
-🔰 Cybersecurity & Ethical Hacking ,etc.<br>
+🔰 ChatGPT Strong AI Search :- https://openai.com/blog/chatgpt/<br>
