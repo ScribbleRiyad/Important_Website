@@ -10,3 +10,4 @@ Hello 🖐️ friends, Welcome to My GitHub. 💕
 🔰 Auto Genarate video  AI  :- https://www.d-id.com/<br>
 🔰 Auto Word Corrcetion AI  :- https://app.wordtune.com/editor <br>
 🔰 Figma For Ui/Ux Website  :- https://www.figma.com/ <br>
+🔰 Paraphrasing QuillBot AI :- https://quillbot.com/ <br>
