@@ -12,7 +12,7 @@ Hello 🖐️ friends, Welcome to My GitHub. 💕
 🔰 Figma For Ui/Ux Website  :- https://www.figma.com/ <br>
 🔰 Paraphrasing QuillBot AI :- https://quillbot.com/ <br>
 🔰 Video Creation       AI  :- https://pictory.ai/ <br>
-🔰 Paraphrasing QuillBot AI :- https://quillbot.com/ <br>
+🔰 ImgBB Free Image Hosting :- https://imgbb.com/ <br>
 🔰 Paraphrasing QuillBot AI :- https://quillbot.com/ <br>
 
 
