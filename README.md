@@ -11,5 +11,8 @@ Hello 🖐️ friends, Welcome to My GitHub. 💕
 🔰 Auto Word Corrcetion AI  :- https://app.wordtune.com/editor <br>
 🔰 Figma For Ui/Ux Website  :- https://www.figma.com/ <br>
 🔰 Paraphrasing QuillBot AI :- https://quillbot.com/ <br>
+🔰 Video Creation       AI  :- https://pictory.ai/ <br>
+🔰 Paraphrasing QuillBot AI :- https://quillbot.com/ <br>
+🔰 Paraphrasing QuillBot AI :- https://quillbot.com/ <br>
 
 
